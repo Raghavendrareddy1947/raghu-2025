@@ -14,4 +14,4 @@ sum=$((num1 + num2))
 
 # Display result
 echo "The sum of $num1 and $num2 is: $sum"
-
+echo "The total"
